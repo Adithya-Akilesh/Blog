@@ -1,0 +1,41 @@
+body{
+  background-color: powderblue;
+  position: relative;
+}
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+.top{
+  background: url(logo.jpg);
+  background-size: contain;
+  height: 600px;
+
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+.below-name{
+  font-family: 'Black Ops One', cursive;
+}
+
+.name{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.between{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    height: 0px;
+    width: 3%;
+}
